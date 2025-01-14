@@ -1,0 +1,10 @@
+.BtnPesquisar {
+	display: flex;
+	font-family: 'Open Sans';
+}
+
+input {
+	height: 14px;
+	margin-right: 5px;
+	font-family: 'Open Sans';
+}
